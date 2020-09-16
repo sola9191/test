@@ -8,7 +8,7 @@
 </head>
 <body>
 	<div class="container panel panel-info">
-		<h3 class="panel-heading"></h3>
+		<h3 class="panel-heading">index ver2</h3>
 		<p></p>
 	</div>
 </body>
